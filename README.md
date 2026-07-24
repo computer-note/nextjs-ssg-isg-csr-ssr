@@ -1,3 +1,8 @@
+## 각 브렌치  
+[ISG](https://github.com/computer-note/nextjs-ssg-isg-csr-ssr/tree/isg)  
+[ISG](https://github.com/computer-note/nextjs-ssg-isg-csr-ssr/tree/ssg)  
+[ISG](https://github.com/computer-note/nextjs-ssg-isg-csr-ssr/tree/ssr)   
+
 ## 빌드 결과 비교 
 
 ### CSR  
